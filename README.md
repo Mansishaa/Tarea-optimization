@@ -19,7 +19,7 @@ PORTAL DEL MEF CONSULTA AMIGABLE: https://apps5.mineco.gob.pe/transparencia/Nave
 | *D_DPTO*   | Departamentos                                                                          |
 | *D_PROV*  | Provincias                    |
 | *Total_Alumnos*     | Total de alumnos por provincia                        |
-| *Total_Docentes*      | Total de docentes por provincia                        |
+| *Cantidad_Colegios*      | Total de colegios por provincia                        |
 | *Presupuesto_Asignado*      | Presupuesto asignado por cada provincia sobre "Educación Básica"               |
 
 ## RESULTADOS: https://mansishaa.github.io/Tarea-optimization/
